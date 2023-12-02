@@ -1,5 +1,5 @@
 # 010Cracked
-License bypass patcher for 010Editor v12.0.1.0
+License bypass patcher for 010Editor v12.0.1.0 \n
 It should accept any password on the license check screen.
 
 
